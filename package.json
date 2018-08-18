@@ -45,7 +45,10 @@
     "@whcg/whcg-select": "^1.0.0",
     "pouchdb": "^7.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-google": "^0.9.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
